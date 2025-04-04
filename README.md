@@ -3,7 +3,7 @@ Aqui estao listados os principais comandos para começar o aprendizado com repos
 
 #### Para clonar um repositorio
 `git clone ˜link do repositorio˜`
-Após clonado, é necessário abrir a pasta em que o repositório foi criado no terminal ou na IDE escolhida. Depois disso, os próximos passos já podem ser seguidos``
+Após clonado, é necessário abrir a pasta em que o repositório foi criado no terminal ou na IDE escolhida. Depois disso, os próximos passos já podem ser seguidos
 
 #### Para criar um abiente virtual
 `python3 -m venv nome_do_ambiente_virtual`
